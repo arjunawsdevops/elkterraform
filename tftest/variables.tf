@@ -1,0 +1,13 @@
+variable "region"{}
+variable "access_key"{}
+variable "secret_key"{}
+variable "ami"{}
+variable "server_count"{}
+variable "instance_type"{}
+variable "subnet_id"{}
+variable "key_name"{}
+variable "security_group_id"{}
+variable "public_ip_boolean"{}
+variable "volume_type"{}
+variable "volume_size"{}
+variable "delete_on_termination_boolean"{}
